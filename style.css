@@ -70,10 +70,12 @@ a {
 main h2 {
     font-size: 1rem;
     margin: 1.25rem 0;
+    color: #3c4043;
 }
 main p,
 main li {
-    font-size: 0.8rem;
+    font-size: 0.7rem;
+    line-height: 1.3rem;
 }
 main li {
     margin-left: .875rem;
